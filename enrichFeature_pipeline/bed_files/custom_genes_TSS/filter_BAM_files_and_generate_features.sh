@@ -51,17 +51,3 @@ for cancer_type in Colorectal Gastric Lung;do \
 
 
         done;done;done
-
-
-
-
-
-
-
-
-
-
-
-
-
-

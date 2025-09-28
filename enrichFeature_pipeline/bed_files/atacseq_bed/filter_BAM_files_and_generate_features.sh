@@ -45,18 +45,3 @@ for inputbed in $all_beds;do \
             --output ${outputdir}/${bedname}/${sampleid}/fragmentomics_features;
             
         done;done
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
