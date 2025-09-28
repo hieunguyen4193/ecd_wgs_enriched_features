@@ -29,6 +29,7 @@ for cancer_type in Colorectal Gastric Lung;do \
                 samtools index ${outputdir}/${bedname}/${filename%.bam*}.filtered.bam;
 
                 ##### generate features
+                filtered_bam=${outputdir}/${bedname}/${filename%.bam*}.filtered.bam;
                 sampleid=$(echo ${filtered_bam} | xargs -n 1 basename)
                 sampleid=$(echo ${sampleid} | cut -d '.' -f 1)
 
