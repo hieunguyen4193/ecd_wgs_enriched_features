@@ -1,0 +1,13 @@
+expNum,sampleOrder,LABCODE,SeqType,Harvest kit,Harvest By,Harvest Date,Library By,Library Date,Species,i7 index,i5 index,LibraryConc,LibraryAmp,Library Protocol,LRMtemplate,passedQC,LANE,TE 0.1X,Primers,NOTES,Label
+ECDNB,1,ZKJ24A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7746,S7546,,,,,,,,622,HDNONBS,Control
+ECDNB,2,ZKJ36A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7796,S7596,,,,,,,,672,HDNONBS,Control
+ECDNB,3,ZKJ53A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7769,S7569,,,,,,,,645,HDNONBS,Control
+ECDNB,4,ZKJ55A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7764,S7564,,,,,,,,640,HDNONBS,Control
+ECDNB,5,ZKJ56A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7765,S7565,,,,,,,,641,HDNONBS,Control
+ECDNB,6,ZKJ80A1HD,,,,,Nghia,6/8/2025,H. sapiens,S7754,S7554,,,,,,,,630,HDNONBS,Control
+ECDNB,7,ZMLGAAQ99HD,,,,,Nghia,6/8/2025,H. sapiens,S7783,S7583,,,,,,,,659,HDNONBS,Cancer
+ECDNB,8,ZMLGAAS86HD,,,,,Nghia,6/8/2025,H. sapiens,S7785,S7585,,,,,,,,661,HDNONBS,Cancer
+ECDNB,9,ZMLGAAU66HD,,,,,Nghia,6/8/2025,H. sapiens,S7786,S7586,,,,,,,,662,HDNONBS,Cancer
+ECDNB,10,ZMLAAAL61HD,,,,,Nghia,6/8/2025,H. sapiens,S7787,S7587,,,,,,,,663,HDNONBS,Cancer
+ECDNB,11,ZMLGAAV52HD,,,,,Nghia,6/8/2025,H. sapiens,S7789,S7589,,,,,,,,665,HDNONBS,Cancer
+ECDNB,12,ZMLGAAV79HD,,,,,Nghia,6/8/2025,H. sapiens,S7790,S7590,,,,,,,,666,HDNONBS,Cancer
